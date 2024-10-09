@@ -1,0 +1,27 @@
+{
+  "version": "3.91.33139.0",
+  "course_id": "5eXH2GSzpUW",
+  "title": "Case Study 1 of LACE Journey",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Process of LACE"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6RhSazlZQpj",
+      "title": "Case study",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
